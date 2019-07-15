@@ -1,0 +1,102 @@
+{
+  "stats": {
+    "suites": 7,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-07-15T17:46:52.854Z",
+    "end": "2019-07-15T17:46:55.448Z",
+    "duration": 2594
+  },
+  "tests": [
+    {
+      "title": "logs the name of each driver",
+      "fullTitle": "index.js logDriverNames() logs the name of each driver",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "logs the name of each driver whose hometown matches the passed-in argument",
+      "fullTitle": "index.js logDriversByHometown() logs the name of each driver whose hometown matches the passed-in argument",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the sort() method to return a new array of drivers ordered by revenue (lowest to highest)",
+      "fullTitle": "index.js driversByRevenue() uses the sort() method to return a new array of drivers ordered by revenue (lowest to highest)",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the sort() method to return a new array of drivers ordered alphabetically by name (A to Z)",
+      "fullTitle": "index.js driversByName() uses the sort() method to return a new array of drivers ordered alphabetically by name (A to Z)",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the reduce() method to sum the revenue of every driver and return the total",
+      "fullTitle": "index.js totalRevenue() uses the reduce() method to sum the revenue of every driver and return the total",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "calculates the average revenue across all drivers",
+      "fullTitle": "index.js averageRevenue() calculates the average revenue across all drivers",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "logs the name of each driver",
+      "fullTitle": "index.js logDriverNames() logs the name of each driver",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "logs the name of each driver whose hometown matches the passed-in argument",
+      "fullTitle": "index.js logDriversByHometown() logs the name of each driver whose hometown matches the passed-in argument",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the sort() method to return a new array of drivers ordered by revenue (lowest to highest)",
+      "fullTitle": "index.js driversByRevenue() uses the sort() method to return a new array of drivers ordered by revenue (lowest to highest)",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the sort() method to return a new array of drivers ordered alphabetically by name (A to Z)",
+      "fullTitle": "index.js driversByName() uses the sort() method to return a new array of drivers ordered alphabetically by name (A to Z)",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the reduce() method to sum the revenue of every driver and return the total",
+      "fullTitle": "index.js totalRevenue() uses the reduce() method to sum the revenue of every driver and return the total",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "calculates the average revenue across all drivers",
+      "fullTitle": "index.js averageRevenue() calculates the average revenue across all drivers",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
